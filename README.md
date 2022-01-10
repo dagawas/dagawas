@@ -8,5 +8,5 @@
 dagawas/dagawas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-dagawas.github.io/index.html
+
 My github pages [dagawas](https://dagawas.github.io)
