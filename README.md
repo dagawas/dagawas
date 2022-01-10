@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dagawas
-- 👀 I’m interested in 
+- 👀 I’m interested in front-end development
 - 🌱 I’m currently learning React
 -  📫 You can reach me on LinkedIn ( https://www.linkedin.com/in/dagmara-wasiewska/ )
 
